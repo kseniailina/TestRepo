@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/2018.1/project-config.xsd">
-  <name>VeryBigProjectTest1234</name>
+  <name>VeryBigProjectTest12345</name>
   <parameters />
   <project-extensions>
     <extension id="PROJECT_EXT_1" type="versionedSettings">
